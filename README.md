@@ -2,11 +2,13 @@
 # Progetto-finale-2025-Cosestrane
 Progetto finale Programmazione Procedurale UniPG Informatica
 
-## Nome: 
+## Nome: Leonardo
 
-## Cognome: 
+## Cognome: Sapora
 
-## Matricola:
+## Matricola:  384922
 
 ## Commenti/modifiche al progetto:
+Aggiunte 2 Funzioni per salvare i nomi dei vincitori del gioco in un file di testo, e per stampare i nomi degli ultimi vincitori nei crediti del gioco.
+
 
